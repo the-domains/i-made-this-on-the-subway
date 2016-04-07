@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[I made this on the subway]]></title>
+        <description><![CDATA[I made this on the subway]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 07 Apr 2016 20:28:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[April is the cruelest month]]></title>
+            <description><![CDATA[<article><h1>April is the cruelest month</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f88af6c2-f77f-49e0-9fb8-db2ee9254b3a.png"></article>]]></description>
+            <link>undefinedapril-is-the-cruelest-month/index.html</link>
+            <guid isPermaLink="false">a9a30a8e-7352-42ff-a6d2-105bfa0a5c52</guid>
+            <pubDate>Thu, 07 Apr 2016 20:28:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
